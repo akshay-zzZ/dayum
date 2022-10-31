@@ -1,3 +1,1 @@
-# dayum
-
-Something that made you go dayum!
+# Something that made you go dayum!
